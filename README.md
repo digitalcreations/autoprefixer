@@ -1,3 +1,6 @@
+# DEPRECATED
+## This package is no longer maintained, as there is now an official BundleTransformer packages that does the same. Please see https://www.nuget.org/packages/BundleTransformer.Autoprefixer
+
 # Autoprefixer for .NET
 
 *This is a .NET adaptation of [Autoprefixer](https://github.com/ai/autoprefixer "Original Autoprefixer library"), a great Javascript library by Andrey Sitnik.*
